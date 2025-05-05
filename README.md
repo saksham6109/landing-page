@@ -120,6 +120,11 @@ This project is licensed under the [MIT License](LICENSE).
 > Built with ❤️ using React, Redux, and Tailwind CSS.
 
 ---
+## 🧑‍💻 Author
+
+Created by Saksham Mishra(https://github.com/saksham6109)
+📧 Contact: saksham1082001@gmail.com
+
 
 # 🚀 Let's Organize and Shine Together! 🚀
 
